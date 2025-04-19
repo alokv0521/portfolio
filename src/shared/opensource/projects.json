@@ -1,0 +1,123 @@
+{
+  "data": [
+    {
+      "id": "R_kgDOJWL0-g",
+      "name": "Pneumonia Detection System",
+      "createdAt": "2023-04-13T04:18:19Z",
+      "url": "https://github.com/ashutosh1919/alokv0521",
+      "description": " Tackled medical diagnosis by developing a deep learning model (CNN + Autoencoder) that processed 5K+ chest X-rays and achieved 96.06% accuracy in detecting pneumonia.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOG_vYHA",
+      "name": "Research Assistant @ IIIT Bhagalpur",
+      "createdAt": "2022-03-13T20:41:33Z",
+      "url": "https://github.com/ashutosh1919/alokv0521",
+      "description": "Collaborated on a deep learning research project to enhance medical image analysis, optimizing model accuracy and data augmentation for real-world diagnosis systems.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
+        },
+        {
+          "name": "Dockerfile",
+          "iconifyClass": "simple-icons:docker"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      "name": "Financial Data analysis",
+      "createdAt": "2020-03-06T16:26:54Z",
+      "url": "https://github.com/ashutosh1919/alokv0521",
+      "description": "🔥Addressed manual financial reporting by creating a conceptual Power BI dashboard and framework, reducing reporting time by 25% and improving decision-making clarity.",
+      "isFork": false,
+      "languages": []
+    },
+    {
+      "id": "R_kgDOG0_8uQ",
+      "name": "Real time Edge detector",
+      "createdAt": "2022-02-11T14:50:20Z",
+      "url": "https://github.com/ashutosh1919/alokv0521",
+      "description": "🌀 Solved image processing challenges by creating a dynamic edge detection tool with OpenCV + Streamlit, boosting edge clarity in noisy images by over 30%",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
+        },
+        {
+          "name": "Dockerfile",
+          "iconifyClass": "simple-icons:docker"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOGcKSQ",
+      "name": "Multiplayer game ",
+      "createdAt": "2021-11-26T17:56:07Z",
+      "url": "https://github.com/ashutosh1919/alokv0521",
+      "description": "⚙️ Designed a real-time multiplayer game for up to 20 players using Socket.io, achieving sub-100ms latency and 95% user satisfaction through gameplay testing.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MTE=",
+      "name": "Food Ordering Website",
+      "createdAt": "2021-01-01T08:31:51Z",
+      "url": "https://github.com/ashutosh1919/alokv0521",
+      "description": "🚀 Built a responsive food booking platform that handled 1K+ concurrent users, reduced reload time to 2s, and optimized backend performance with efficient DB/API design.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        }
+      ]
+    }
+  ]
+}
